@@ -1,1 +1,1 @@
-# Week-3
+In week 3 - In this week, I Have added options for the Restaurants type and modify add to cart, because I Have added the add to cart in the week 2 and searching options to access the payments and search for the restaurants and other stuff
